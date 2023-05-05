@@ -8,7 +8,7 @@ showcase:
     x: "img/showcase/OT-IT-Grafik_small.gif"
     _2x: "img/showcase/OT-IT-Grafik_small.gif"
   imageMobile:
-    x: "img/showcase/showcase-mobile.jpg"
+    x: "img/showcase/OT-IT-Grafik_original.gif"
 
   button:
     icon: "icon-mail-fill"
@@ -65,8 +65,8 @@ about:
     btnText: "About Me"
     URL: "https://www.linkedin.com/company/radity/"
   image:
-    x: "img/who-am-i/user-picture.png"
-    _2x: "img/who-am-i/user-picture@2x.png"
+    x: "img/who-am-i/foto1.jpg"
+    _2x: "img/who-am-i/foto1.jpg"
 
 # education
 education:
