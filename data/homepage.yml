@@ -3,7 +3,7 @@ showcase:
   enable: true
   title: "Pavel Halama"
   subtitle: "Application Engineer at Siemens"
-  description: "SIemens"
+  description: "Siemens s.r.o"
   image:
     x: "img/showcase/OT-IT-Grafik_small.gif"
     _2x: "img/showcase/OT-IT-Grafik_small.gif"
