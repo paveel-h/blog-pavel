@@ -17,34 +17,11 @@ showcase:
 
   socialLinks:
     - icon: "linkedin"
-      URL: "https://www.linkedin.com/company/radity/"
+      URL: "www.linkedin.com/in/pavel-halama-07b4321a4"
 
     - icon: "github"
-      URL: "https://github.com/radity"
+      URL: "https://github.com/paveel-h"
 
-    - icon: "twitter"
-      URL: "https://twitter.com/radity"
-
-    - icon: "dribbble"
-      URL: "https://dribbble.com/radity"
-
-    - icon: "behance"
-      URL: "https://www.behance.net/radity-digital"
-
-    - icon: "youtube"
-      URL: "https://www.youtube.com/channel/UCojEc6SPO-W1_CoeHhK9-Zw"
-
-    - icon: "instagram"
-      URL: "https://www.instagram.com/teamradity/"
-
-    - icon: "facebook"
-      URL: "https://www.facebook.com/raditycom/"
-
-    - icon: "codepen"
-      URL: "#"
-
-    - icon: "yelp"
-      URL: "https://www.yelp.com/"
 
 # about
 about:
@@ -178,26 +155,6 @@ client_and_work:
         _2x: "img/works/robo-advisor@2x.jpg"
       is_even: true
 
-# contact
-contact:
-  enable: true
-  title: "Contact"
-  form:
-    action: "#"
-    full_name: "Full Name"
-    email: "Email Address"
-    message: "Type Your Message Here"
-  phone:
-    title: "Phone Number"
-    number: "+41 (44) 505 10 99"
-  email:
-    title: "Email"
-    email: '<a href="mailto:team@radity.com">team@radity.com</a>'
-  address:
-    title: "Address"
-    address: "Radity GmbH<br />Max-Bill-Platz 5, 8050 Zürich"
-  button:
-    icon: "icon-mail-fill"
-    btnText: "Send Message"
+
 
 
