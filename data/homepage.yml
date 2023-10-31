@@ -29,10 +29,10 @@ about:
   enable: true
   title: "Who am I?"
   content: '<p class="lead">
-    Experienced application engineer with demonstrated history of working in industrial automation industry. As an application engineer I specialise in Edge computing solutions with the IIoT platfrom Industrial Edge from Siemens. As a member of the international team, I frive the customer success by architecting, implementing and supporting edge computing solutions.
+    Experienced application engineer with demonstrated history of working in industrial automation industry. As an application engineer I specialise in Edge computing solutions with the IIoT platfrom Industrial Edge from Siemens. As a member of the international team, I drive the customer success by architecting, implementing and supporting edge computing solutions.
     </p>
     <p class="lead">
-    My expertise spans in various technologies, including software development, Docker, Kubernetes, REST APIs, DevOps technologies, GIT, Linux and industrial communication. During my carreer I have also developed the required soft skills, including communication, presentation and networking to keep strong reletionship with stakeholders in customers, R&D, marketing and product management. 
+    My expertise spans in various technologies, including software development, Docker, Kubernetes, REST APIs, DevOps technologies, GIT, Linux and industrial communication. During my carreer I have also developed the required soft skills, including communication, presentation and networking to keep strong relationship with stakeholders in customers, R&D, marketing and product management. 
     </p>'
   button:
     icon: "icon-smile-fill"
@@ -47,40 +47,38 @@ education:
   enable: true
   title: "Education"
   items:
-    - university: "University of Waterloo"
-      year: "2012-2017"
-      degree: "Bachelor of Applied Science (BASc), Electrical Engineering"
+    - university: "University of West Bohemia, Pilsen"
+      year: "2018-2020"
+      degree: "Masters in Dynamics and Mechatronics"
 
-    - university: "Sir John A Macdonald CI"
-      year: "2009-2012"
-      degree: "High School Diploma, Sciences, Math, Computer & Business Studies"
+    - university: "University of West Bohemia, Pilsen"
+      year: "2015-2018"
+      degree: "Bachelors in computer modelling in mechanics"
 
 # experience
 experience:
   enable: true
   title: "Experience"
-  description: "Over 15+ years of experience working with companies from all over the world. I design & develop digital products to help businesses and improve people's lives."
+  description: "Member of an international team of technical consultants to support customers in architecture as well as implementation of the edge computing platform Industrial Edge from Siemens. The main specialisation is the topic of application development using various programming languages with Docker, configuration of NGINX or implementation of the platform in Kubernetes cluster. Part of my job is also to collaborate closely with Product Management, R&D MArketing and Technical consutants in regions to communicate product releases and roadmaps across EMEA, AM and APAC regions. Furtheremore, I present the solutions in internal fairs as well as global fairs such as Hannover or SPS."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
-    URL: "https://www.linkedin.com/company/radity/"
+    URL: "www.linkedin.com/in/pavel-halama-07b4321a4"
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
     URL: "#"
 
   items:
-    - title: "Sr. Front-End Developer"
-      company: "Radity"
-      duration: "Feb 2011 - Sep 2019"
+    - title: "Application engineer"
+      company: "Siemens s.r.o"
+      duration: "Sep 2020 - Present"
 
-    - title: "Sr. Front-End Developer"
-      company: "Textic"
-      duration: "Apr 2010 - Jan 2011"
+    - title: "Student Application engineer"
+      company: "Siemens s.r.o"
+      duration: "Sep 2019 - Aug 2020"
 
-    - title: "Jr. Front-End Developer"
-      company: "Cyberse"
-      duration: "Jun 2009 - Mar 2010"
+
 
 # Client & Work
 client_and_work:
