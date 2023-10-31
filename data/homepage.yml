@@ -13,7 +13,7 @@ showcase:
   button:
     icon: "icon-mail-fill"
     btnText: "Contact"
-    URL: "https://radity.com/en/contact/"
+    URL: "www.linkedin.com/in/pavel-halama-07b4321a4"
 
   socialLinks:
     - icon: "linkedin"
@@ -23,24 +23,21 @@ showcase:
       URL: "https://github.com/paveel-h"
 
 
+
 # about
 about:
   enable: true
   title: "Who am I?"
   content: '<p class="lead">
-    I am back, after a few days of vacationing with family. Weather was awesome, the beach was
-    full of nasty jelly-fish, yuk! All-in-all, life has been good. I hope life has been as
-    good for all of you.
+    Experienced application engineer with demonstrated history of working in industrial automation industry. As an application engineer I specialise in Edge computing solutions with the IIoT platfrom Industrial Edge from Siemens. As a member of the international team, I frive the customer success by architecting, implementing and supporting edge computing solutions.
     </p>
     <p class="lead">
-    My area of focus lies in designing web and mobile products, user research as well as
-    leading of design & front-end teams. I enjoy designing and coding the UI as much as
-    talking with users to iterate and improve the experiences that reach business goals.
+    My expertise spans in various technologies, including software development, Docker, Kubernetes, REST APIs, DevOps technologies, GIT and industrial communication. During my carreer I have also developed the required soft skills, including communication, presentation and networking to keep strong reletionship with stakeholders in customers, R&D, marketing and product management. 
     </p>'
   button:
     icon: "icon-smile-fill"
     btnText: "About Me"
-    URL: "https://www.linkedin.com/company/radity/"
+    URL: "www.linkedin.com/in/pavel-halama-07b4321a4"
   image:
     x: "img/who-am-i/foto1.jpg"
     _2x: "img/who-am-i/foto1.jpg"
@@ -155,5 +152,26 @@ client_and_work:
         _2x: "img/works/robo-advisor@2x.jpg"
       is_even: true
 
+# contact
+contact:
+  enable: true
+  title: "Contact"
+  form:
+    action: "#"
+    full_name: "Full Name"
+    email: "Email Address"
+    message: "Type Your Message Here"
+  phone:
+    title: "Phone Number"
+    number: "+41 (44) 505 10 99"
+  email:
+    title: "Email"
+    email: '<a href="mailto:team@radity.com">team@radity.com</a>'
+  address:
+    title: "Address"
+    address: "Radity GmbH<br />Max-Bill-Platz 5, 8050 Zürich"
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
 
 
