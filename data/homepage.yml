@@ -82,20 +82,20 @@ experience:
 
 # Client & Work
 client_and_work:
-  title: "Projects"
+  title: "Projects&Applications"
   enable: true
 
 
   works:
-    - title: "Radity Finance - UI Kit"
+    - title: "Siemens Industrial Edge"
       description: "We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech."
       button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
         URL: "#"
       image:
-        x: "img/works/radity-finance.jpg"
-        _2x: "img/works/radity-finance@2x.jpg"
+        x: "img/works/blog-edge.PNG"
+        _2x: "img/works/blog-edge.PNG"
       is_even: true
 
     - title: "Swiss Fintech Website"
