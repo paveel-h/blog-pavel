@@ -88,7 +88,7 @@ client_and_work:
 
   works:
     - title: "Siemens Industrial Edge"
-      description: "We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech."
+      description: "Siemens Industrial Edge (IE) is an open, ready-to-use edge computing platform, with edge devices, edge applications (apps) and connectivity through an integrated app and device management infrastructure."
       button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
@@ -96,7 +96,7 @@ client_and_work:
       image:
         x: "img/works/blog-edge.PNG"
         _2x: "img/works/blog-edge.PNG"
-      is_even: true
+      is_even: false
 
     - title: "Swiss Fintech Website"
       description: "The Swiss Finance + Technology Association is the leading FinTech hub in Switzerland."
