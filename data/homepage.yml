@@ -88,7 +88,7 @@ client_and_work:
 
   works:
     - title: "Siemens Industrial Edge"
-      description: "Siemens Industrial Edge (IE) is an open, ready-to-use edge computing platform, with edge devices, edge applications (apps) and connectivity through an integrated app and device management infrastructure."
+      description: "Supporting customer projects in implementing Industrial Edge into the production. Main topic is application development using Docker. Teaching technical consultants by holding workshops."
       button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
