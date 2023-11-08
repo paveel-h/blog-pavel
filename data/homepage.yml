@@ -107,7 +107,7 @@ client_and_work:
       image:
         x: "img/works/tm-npu.PNG"
         _2x: "img/works/tm-npu.PNG"
-      is_even: false
+      is_even: true
 
     - title: "Robo Advisor"
       description: "Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard."
