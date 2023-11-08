@@ -94,8 +94,8 @@ client_and_work:
         btnText: "Case Study"
         URL: "#"
       image:
-        x: "img/works/blog-edge.PNG"
-        _2x: "img/works/blog-edge.PNG"
+        x: "img/works/blog-edge2.PNG"
+        _2x: "img/works/blog-edge2.PNG"
       is_even: false
 
     - title: "Swiss Fintech Website"
