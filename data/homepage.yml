@@ -10,10 +10,6 @@ showcase:
   imageMobile:
     x: "img/showcase/OT-IT-Grafik_original.gif"
 
-  button:
-    icon: "icon-mail-fill"
-    btnText: "Contact"
-    URL: "www.linkedin.com/in/pavel-halama-07b4321a4"
 
   socialLinks:
     - icon: "linkedin"
@@ -34,10 +30,6 @@ about:
     <p class="lead">
     My expertise spans in various technologies, including software development, Docker, Kubernetes, REST APIs, DevOps technologies, GIT, Linux and industrial communication. During my carreer I have also developed the required soft skills, including communication, presentation and networking to keep strong relationship with stakeholders in customers, R&D, marketing and product management. 
     </p>'
-  button:
-    icon: "icon-smile-fill"
-    btnText: "About Me"
-    URL: "www.linkedin.com/in/pavel-halama-07b4321a4"
   image:
     x: "img/who-am-i/foto1.jpg"
     _2x: "img/who-am-i/foto1.jpg"
@@ -67,7 +59,7 @@ experience:
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
-    URL: "#"
+    URL: "https://github.com/paveel-h/blog-pavel/tree/main/images/_Pavel_Halama_CV.pdf"
 
   items:
     - title: "Application engineer"
@@ -89,10 +81,6 @@ client_and_work:
   works:
     - title: "Siemens Industrial Edge"
       description: "Supporting customer projects in implementing Industrial Edge into the production. Main topic is application development using Docker. Teaching technical consultants by holding workshops."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Case Study"
-        URL: "#"
       image:
         x: "img/works/blog-edge2.PNG"
         _2x: "img/works/blog-edge2.PNG"
@@ -100,25 +88,17 @@ client_and_work:
 
     - title: "TM NPU"
       description: "Programming micropython for communication between PLC and AI enabled technology module TM NPU."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Case Study"
-        URL: "#"
       image:
         x: "img/works/tm-npu.PNG"
         _2x: "img/works/tm-npu.PNG"
       is_even: true
 
-    - title: "Robo Advisor"
-      description: "Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Case Study"
-        URL: "#"
+    - title: "Edge Device Mass Onboarding application"
+      description: "Developed a Node.js application that enables to perform mass Edge Device onboarding by calling the Industrial Edge API"
       image:
-        x: "img/works/robo-advisor.jpg"
-        _2x: "img/works/robo-advisor@2x.jpg"
-      is_even: true
+        x: "img/works/blog-mass-onboarding.PNG"
+        _2x: "img/works/blog-mass-onboarding.PNG"
+      is_even: false
 
 # contact
 contact:
