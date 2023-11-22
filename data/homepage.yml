@@ -13,10 +13,10 @@ showcase:
   button:
     icon: "icon-mail-fill"
     btnText: "Contact"
-    URL: "www.linkedin.com/in/pavel-halama-07b4321a4"
+    URL: "https://www.linkedin.com/in/pavel-halama-07b4321a4/"
   socialLinks:
     - icon: "linkedin"
-      URL: "www.linkedin.com/in/pavel-halama-07b4321a4"
+      URL: "https://www.linkedin.com/in/pavel-halama-07b4321a4/"
 
     - icon: "github"
       URL: "https://github.com/paveel-h"
@@ -36,7 +36,7 @@ about:
   button:
     icon: "icon-smile-fill"
     btnText: "About Me"
-    URL: "www.linkedin.com/in/pavel-halama-07b4321a4"
+    URL: "https://www.linkedin.com/in/pavel-halama-07b4321a4/"
   image:
     x: "img/who-am-i/foto1.jpg"
     _2x: "img/who-am-i/foto1.jpg"
@@ -84,6 +84,10 @@ client_and_work:
   works:
     - title: "Siemens Industrial Edge"
       description: "Supporting customer projects in implementing Industrial Edge into the production. Main topic is application development using Docker. Teaching technical consultants by holding workshops."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Siemens Industrial Edge"
+        URL: "https://www.siemens.com/global/en/products/automation/topic-areas/industrial-edge.html"      
       image:
         x: "img/works/blog-edge2.PNG"
         _2x: "img/works/blog-edge2.PNG"
@@ -91,6 +95,10 @@ client_and_work:
 
     - title: "TM NPU"
       description: "Programming micropython for communication between PLC and AI enabled technology module TM NPU."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Siemens TM NPU"
+        URL: "https://www.siemens.com/global/en/products/automation/systems/industrial/plc/simatic-s7-1500/simatic-s7-1500-tm-npu.html"      
       image:
         x: "img/works/tm-npu.PNG"
         _2x: "img/works/tm-npu.PNG"
