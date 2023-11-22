@@ -10,7 +10,10 @@ showcase:
   imageMobile:
     x: "img/showcase/OT-IT-Grafik_original.gif"
 
-
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact"
+    URL: "www.linkedin.com/in/pavel-halama-07b4321a4"
   socialLinks:
     - icon: "linkedin"
       URL: "www.linkedin.com/in/pavel-halama-07b4321a4"
@@ -30,6 +33,10 @@ about:
     <p class="lead">
     My expertise spans in various technologies, including software development, Docker, Kubernetes, REST APIs, DevOps technologies, GIT, Linux and industrial communication. During my carreer I have also developed the required soft skills, including communication, presentation and networking to keep strong relationship with stakeholders in customers, R&D, marketing and product management. 
     </p>'
+  button:
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "www.linkedin.com/in/pavel-halama-07b4321a4"
   image:
     x: "img/who-am-i/foto1.jpg"
     _2x: "img/who-am-i/foto1.jpg"
@@ -52,10 +59,6 @@ experience:
   enable: true
   title: "Experience"
   description: "Member of an international team of technical consultants to support customers in architecture as well as implementation of the edge computing platform Industrial Edge from Siemens. The main specialisation is the topic of application development using various programming languages with Docker, configuration of NGINX or implementation of the platform in Kubernetes cluster. Part of my job is also to collaborate closely with Product Management, R&D MArketing and Technical consutants in regions to communicate product releases and roadmaps across EMEA, AM and APAC regions. Furtheremore, I present the solutions in internal fairs as well as global fairs such as Hannover or SPS."
-  button:
-    icon: "icon-linkedin-fill"
-    btnText: "Linkedin"
-    URL: "www.linkedin.com/in/pavel-halama-07b4321a4"
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
@@ -95,6 +98,10 @@ client_and_work:
 
     - title: "Edge Device Mass Onboarding application"
       description: "Developed a Node.js application that enables to perform mass Edge Device onboarding by calling the Industrial Edge API"
+      button:
+        icon: "icon-arrow-right"
+        btnText: "GitHub repository"
+        URL: "https://github.com/paveel-h/rest-api-mass-device-onboarding"
       image:
         x: "img/works/blog-mass-onboarding.PNG"
         _2x: "img/works/blog-mass-onboarding.PNG"
