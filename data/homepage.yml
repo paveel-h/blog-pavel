@@ -2,8 +2,8 @@
 showcase:
   enable: true
   title: "Pavel Halama"
-  subtitle: "Application Engineer at Siemens"
-  description: "Siemens s.r.o"
+  subtitle: "DevOps engineer at Komerční banka"
+  description: "Komerční banka"
   image:
     x: "img/showcase/OT-IT-Grafik_small.gif"
     _2x: "img/showcase/OT-IT-Grafik_small.gif"
@@ -28,10 +28,10 @@ about:
   enable: true
   title: "Who am I?"
   content: '<p class="lead">
-    Experienced application engineer with demonstrated history of working in industrial automation industry. As an application engineer I specialise in Edge computing solutions with the IIoT platfrom Industrial Edge from Siemens. As a member of the international team, I drive the customer success by architecting, implementing and supporting edge computing solutions.
+    Fast learner with interest in web technologies, programming and DevOps. Currently working for one of the largest czech bank Komerční banka as DevOps engineer.
     </p>
     <p class="lead">
-    My expertise spans in various technologies, including software development, Docker, Kubernetes, REST APIs, DevOps technologies, GIT, Linux and industrial communication. During my carreer I have also developed the required soft skills, including communication, presentation and networking to keep strong relationship with stakeholders in customers, R&D, marketing and product management. 
+    My expertise spans in various technologies, including software development, Docker, Kubernetes, Openshift, REST APIs, DevOps technologies, GIT, Linux, Prometheus, Kafka, Fluentd etc. During my carreer I have also developed the required soft skills, including communication, presentation and networking to keep strong relationship with stakeholders in customers, R&D, marketing and product management. 
     </p>'
   button:
     icon: "icon-smile-fill"
