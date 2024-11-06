@@ -5,10 +5,10 @@ showcase:
   subtitle: "DevOps engineer at Komerční banka"
   description: "Komerční banka"
   image:
-    x: "img/who-am-i/foto2.jpg"
-    _2x: "img/who-am-i/foto2.jpg"
+    x: "img/who-am-i/foto2.JPG"
+    _2x: "img/who-am-i/foto2.JPG"
   imageMobile:
-    x: "img/who-am-i/foto2.jpg"
+    x: "img/who-am-i/foto2.JPG"
 
   button:
     icon: "icon-mail-fill"
