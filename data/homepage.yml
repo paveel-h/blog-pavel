@@ -91,6 +91,17 @@ client_and_work:
 
 
   works:
+    - title: "Ruby, the digital assistent of Komercni banka"
+      description: "Responsible for managing platform for chatbot/voicebot. The platform is based on IBM Watson running on Red Hat Openshift cluster. Other patrs of the infrastructure are running on vanilla Kubernetes. Besides administration, I am also responsible for developing and enhancing the platform with latest technologies, for example in the field of monitoring and alerting. Automating deployment of new releases is also part of my job."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Chatbot/Voicebot Ruby"
+        URL: "https://www.kb.cz/getmedia/16e5599a-b68c-4f34-876b-e68eba9a78f6/Martin-Sladecek_AI-v-bankovnictvi.pdf"      
+      image:
+        x: "img/works/ruby.JPG"
+        _2x: "img/works/ruby.JPG"
+      is_even: true
+
     - title: "Siemens Industrial Edge"
       description: "Supporting customer projects in implementing Industrial Edge into the production. Main topic is application development using Docker. Teaching technical consultants by holding workshops."
       button:
