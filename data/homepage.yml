@@ -58,25 +58,12 @@ education:
 experience:
   enable: true
   title: "Experience"
-  description: '<p class="lead">
-  As a DevOps Engineer at Komerční banka, I manage and administer the platform for our chatbot and voicebot. Leveraging technologies such as IBM Watson, Red Hat OpenShift, and Kubernetes, I ensure the platform’s reliability and scalability. My core responsibilities include:
-  </p>
-  <p class="lead">
+  description: "As a DevOps Engineer at Komerční banka, I manage and administer the platform for our chatbot and voicebot. Leveraging technologies such as IBM Watson, Red Hat OpenShift, and Kubernetes, I ensure the platform’s reliability and scalability. My core responsibilities include:
+
 • Enhancing service reliability and uptime by implementing robust monitoring and alerting systems.
-</p>
-<p class="lead">
 • Managing deployments of new services and updates to enhance functionality and user experience.
-</p>
-<p class="lead">
 • Continuously optimizing the platform's infrastructure to support stable and scalable solutions.
-</p>
-<p class="lead">
-• Collaborating closely with cross-functional teams to ensure smooth, efficient operations and rapid issue resolution.
-</p>
-<p class="lead">
-Technologies:IBM Watson, RH Openshift, Kubernetes, ArgoCD, Linux, Docker, Python, Bash, Git, Prometheus, Kafka, Elasticsearch, Fluentd, Kibana, Grafana, Redis, PosgresQL
-Other tools:VS Code, Wireshark, Microsoft Speech Services, Jira
-</p>'
+• Collaborating closely with cross-functional teams to ensure smooth, efficient operations and rapid issue resolution."
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
