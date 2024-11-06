@@ -58,16 +58,28 @@ education:
 experience:
   enable: true
   title: "Experience"
-  description: "Member of an international team of technical consultants to support customers in architecture as well as implementation of the edge computing platform Industrial Edge from Siemens. The main specialisation is the topic of application development using various programming languages with Docker, configuration of NGINX or implementation of the platform in Kubernetes cluster. Part of my job is also to collaborate closely with Product Management, R&D MArketing and Technical consutants in regions to communicate product releases and roadmaps across EMEA, AM and APAC regions. Furtheremore, I present the solutions in internal fairs as well as global fairs such as Hannover or SPS."
+  description: "As a DevOps Engineer at Komerční banka, I manage and administer the platform for our chatbot and voicebot. Leveraging technologies such as IBM Watson, Red Hat OpenShift, and Kubernetes, I ensure the platform’s reliability and scalability. My core responsibilities include:
+
+• Enhancing service reliability and uptime by implementing robust monitoring and alerting systems.
+• Managing deployments of new services and updates to enhance functionality and user experience.
+• Continuously optimizing the platform's infrastructure to support stable and scalable solutions.
+• Collaborating closely with cross-functional teams to ensure smooth, efficient operations and rapid issue resolution.
+
+Technologies: IBM Watson, RH Openshift, Kubernetes, ArgoCD, Linux, Docker, Python, Bash, Git, Prometheus, Kafka, Elasticsearch, Fluentd, Kibana, Grafana, Redis, PosgresQL
+Other tools: VS Code, Wireshark, Microsoft Speech Services, Jira"
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
     URL: "https://github.com/paveel-h/blog-pavel/tree/main/images/_Pavel_Halama_CV.pdf"
 
   items:
+    - title: "DevOps engineer"
+      company: "Komerční banka"
+      duration: "Apr 24 - Present"
+
     - title: "Application engineer"
       company: "Siemens s.r.o"
-      duration: "Sep 2020 - Present"
+      duration: "Sep 2020 - Mar 24"
 
     - title: "Student Application engineer"
       company: "Siemens s.r.o"
