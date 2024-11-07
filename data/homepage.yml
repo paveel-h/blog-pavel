@@ -38,8 +38,8 @@ about:
     btnText: "About Me"
     URL: "https://www.linkedin.com/in/pavel-halama-07b4321a4/"
   image:
-    x: "img/who-am-i/foto1.jpg"
-    _2x: "img/who-am-i/foto1.jpg"
+    x: "img/who-am-i/foto11.JPG"
+    _2x: "img/who-am-i/foto11.JPG"
 
 # education
 education:
