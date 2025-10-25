@@ -28,10 +28,10 @@ about:
   enable: true
   title: "Who am I?"
   content: '<p class="lead">
-    Fast learner with interest in web technologies, programming and DevOps. Currently working for one of the largest czech bank Komerční banka as DevOps engineer.
+    Fast learner with interest in web technologies, programming and DevOps. Currently working as IT Software engineer at Wacker.
     </p>
     <p class="lead">
-    My expertise spans in various technologies, including software development, Docker, Kubernetes, Openshift, REST APIs, DevOps technologies, GIT, Linux, Prometheus, Kafka, Fluentd etc. During my carreer I have also developed the required soft skills, including communication, presentation and networking to keep strong relationship with stakeholders in customers, R&D, marketing and product management. 
+    My expertise spans in various technologies, including software development, Cloud Native technologies, Docker, Kubernetes, Openshift, REST APIs, DevOps technologies, GIT, Linux, Prometheus, Kafka, Fluentd etc. During my carreer I have also developed the required soft skills, including communication, presentation and networking to keep strong relationship with stakeholders in customers, R&D, marketing and product management. 
     </p>'
   button:
     icon: "icon-smile-fill"
@@ -58,21 +58,26 @@ education:
 experience:
   enable: true
   title: "Experience"
-  description: "As a DevOps Engineer at Komerční banka, I manage and administer the platform for our chatbot and voicebot. Leveraging technologies such as IBM Watson, Red Hat OpenShift, and Kubernetes, I ensure the platform’s reliability and scalability. My core responsibilities include:
+  description: "As an IT Software Engineer at Wacker, I am part of a team responsible for maintaining and developing an internal developer platform based on Kubernetes, deployed across multiple production sites. My key responsibilities include:
 
-• Enhancing service reliability and uptime by implementing robust monitoring and alerting systems.
-• Managing deployments of new services and updates to enhance functionality and user experience.
-• Continuously optimizing the platform's infrastructure to support stable and scalable solutions.
-• Collaborating closely with cross-functional teams to ensure smooth, efficient operations and rapid issue resolution."
+• Implementing new features to enhance the platform’s functionality and developer experience
+• Maintaining and ensuring the reliability and performance of the platform
+• Designing and implementing CI/CD pipelines to automate deployment and operational tasks
+• Managing monitoring and alerting solutions to proactively identify and resolve issues
+• Collaborating with cross-functional teams to support scalable and efficient software delivery"
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
     URL: "https://github.com/paveel-h/blog-pavel/tree/main/images/_Pavel_Halama_CV.pdf"
 
   items:
+    - title: "IT Software Engineer"
+      company: "Wacker Chemie AG"
+      duration: "Apr 25 - Present"
+
     - title: "DevOps engineer"
       company: "Komerční banka"
-      duration: "Apr 24 - Present"
+      duration: "Apr 24 - Mar 25"
 
     - title: "Application engineer"
       company: "Siemens s.r.o"
@@ -91,6 +96,17 @@ client_and_work:
 
 
   works:
+    - title: "Digital Backbone Platform - Internal Developer platform at Wacker"
+      description: "Part of an international team responsible for maintaining and developing an internal developer platform based on Kubernetes. Kubernetes clusters are deployed across multiple production sites. Incorporating Cloud Native technologies."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Internal Developer Platform"
+        URL: "https://www.wacker.com/cms/en-us/home/home.html"      
+      image:
+        x: "img/works/Designer.png"
+        _2x: "img/works/Designer.png"
+      is_even: false
+
     - title: "Ruby, the digital assistent of Komercni banka"
       description: "Responsible for managing platform for chatbot/voicebot. The platform is based on IBM Watson running on Red Hat Openshift cluster. Other patrs of the infrastructure are running on vanilla Kubernetes. Besides administration, I am also responsible for developing and enhancing the platform with latest technologies, for example in the field of monitoring and alerting. Automating deployment of new releases is also part of my job."
       button:
