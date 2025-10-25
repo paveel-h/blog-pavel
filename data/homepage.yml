@@ -2,8 +2,8 @@
 showcase:
   enable: true
   title: "Pavel Halama"
-  subtitle: "DevOps engineer at Komerční banka"
-  description: "Komerční banka"
+  subtitle: "IT Software enginner at Wacker"
+  description: "Wacker | Cloud Native, Kubernetes, Docker, DevOps"
   image:
     x: "img/who-am-i/foto2.JPG"
     _2x: "img/who-am-i/foto2.JPG"
